@@ -277,6 +277,10 @@ header .navbar ul li a:hover{
 .giticon:hover{
     color: #333333;
 }
+.instaicon:hover{
+    color:#333333;
+}
+    
 
 .education .box-container .box i{
     position: absolute;
