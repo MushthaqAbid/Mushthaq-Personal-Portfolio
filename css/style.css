@@ -262,6 +262,21 @@ header .navbar ul li a:hover{
     color:#eee;
     padding: 1rem 0;
 }
+.icon{
+    color: #ADD8E6;
+    transition: color 0.2s;
+    font-size: 1.0;
+}
+.icon:hover {
+    color: #333333;
+}
+
+.giticon{
+    color: #ADD8E6;
+}
+.giticon:hover{
+    color: #333333;
+}
 
 .education .box-container .box i{
     position: absolute;
